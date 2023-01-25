@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "noImplicitAny": true,
+    "preserveConstEnums": true,
+    "sourceMap": true,
+    "target": "ES6",
+    "downlevelIteration": true,
+    "lib": ["dom", "es6", "dom.iterable"],
+    "outDir": "dist",
+    "alwaysStrict" : true ,
+    "importHelpers" : false,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "moduleResolution": "Node",
+    "resolveJsonModule": true,
+    "esModuleInterop": true
+  }
+}
+
