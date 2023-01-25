@@ -2,6 +2,8 @@
 
 This project was build with Typescript/Node.js and React.
 
+## Remember to install this project in two folders. It have separated frontend and backend
+
 ## Quick start with project.
 
 Firstly u need to install dependencies from.\
